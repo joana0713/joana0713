@@ -1,14 +1,14 @@
-# 💞 Hi, there! My name is Joana Kelly 💞<br/>
+<h1 align="center">
+    💞 Hi, there! My name is Joana Kelly 💞
+</h1>
 
-<h2 align="center">
-    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="25px" width="25px"> I'm Shivangee Nagar!
-</h2>
-
-<h3 align="center">Software Engineer | Full-Stack Developer</h3>
+<h2 align="center">Software Engineer | Full-Stack Developer</h2>
 
 <br/>
 
-Senior Full-Stack Engineer with over five years of experience building production web applications in fintech and public sector environments. I’ve contributed to projects that increased revenue by 40% and improved user enrollment by 33%. I value clean, maintainable code and aim to build systems that are practical, scalable, and useful for real users.
+<h5>
+    Senior Full-Stack Engineer with over five years of experience building production web applications in fintech and public sector environments. I’ve contributed to projects that increased revenue by 40% and improved user enrollment by 33%. I value clean, maintainable code and aim to build systems that are practical, scalable, and useful for real users.
+</h5>
 
 ## About Me
 My username on most of the websites I use is [**yodaluca23**](https://github.com/yodaluca23). I am mostly interested in Block-Game modding, Windows Batch files, and iOS App tweaks. I do have a lot of other random interests. I also enjoy reverse engineering things and have several reverse engineered POC APIs on my [gist profile](https://gist.github.com/yodaluca23). I also like making automation using PowerShell and Python. I have several random projects available here on my GitHub profile, and on my [GreasyFork profile](https://greasyfork.org/en/users/1315976).<br/>
