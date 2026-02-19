@@ -1,5 +1,5 @@
 <h1 align="center">
-  Joana Kelly
+  ☺️ Joana Kelly ☺️
 </h1>
 
 <h3 align="center">
