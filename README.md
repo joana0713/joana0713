@@ -4,22 +4,14 @@
 
 <h2 align="center">Software Engineer | Full-Stack Developer</h2>
 
-<h4>
+<h3>
     Senior Full-Stack Engineer with over five years of experience building production web applications in fintech and public sector environments. I’ve contributed to projects that increased revenue by 40% and improved user enrollment by 33%. I value clean, maintainable code and aim to build systems that are practical, scalable, and useful for real users.
-</h4>
+</h3>
 
 ## About Me
-My username on most of the websites I use is [**yodaluca23**](https://github.com/yodaluca23). I am mostly interested in Block-Game modding, Windows Batch files, and iOS App tweaks. I do have a lot of other random interests. I also enjoy reverse engineering things and have several reverse engineered POC APIs on my [gist profile](https://gist.github.com/yodaluca23). I also like making automation using PowerShell and Python. I have several random projects available here on my GitHub profile, and on my [GreasyFork profile](https://greasyfork.org/en/users/1315976).<br/>
-<br/>
-What I'm Doing On Discord Now:<br/><br/>
+Full-Stack Web Developer with 5 years of experience building scalable and high-performance web applications.
 
-I love contributing to the community with [blog posts](http://loiane.com/), [videos](http://youtube.com/loianegroner), and [books](https://www.packtpub.com/books/info/authors/loiane-groner). 
-
-For my contributions to the developer community, I was honored by being given the titles [Microsoft MVP](https://mvp.microsoft.com/en-us/mvp/Loiane%20%20Groner-5002870), [Google Developer Expert in Angular](https://developers.google.com/community/experts/directory/profile/profile-loiane-groner), [Oracle ACE](https://ace.oracle.com/pls/apex/r/ace_program/oracle-aces/ace?ace_id=672&clear=2) and [Java Champion](https://dev.java/community/jcs/).
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/loiane?style=social)](https://twitter.com/loiane)
-[![Linkedin: loiane](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/loiane/)](https://www.linkedin.com/in/loiane/)
-[![Youtube: loianegroner](https://img.shields.io/badge/-Youtube-red?style=flat-square&logo=Youtube&logoColor=white&link=http://youtube.com/loianegroner)](http://youtube.com/loianegroner)
+I specialize in modern JavaScript ecosystems and enjoy designing clean, maintainable systems that scale.
 
 ____
 
@@ -28,37 +20,32 @@ ____
 These are some of the technologies and tools that I work with:
 
 Backend: 
+![Nodejs](https://img.shields.io/badge/-Nodejs%20-%23525252.svg?style=flat&logo=node.js&)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
-![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 
 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-007FFF?style=flat&logo=mui&logoColor=white)
 
 Database:
 ![Microsoft SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-Cloud:
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white)
-![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=flat-square&logo=oracle&logoColor=white)
-
-Tools:
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
-![JIRA](https://img.shields.io/badge/-JIRA-0052CC?style=flat-square&logo=jira)
-![JFrog](https://img.shields.io/badge/-JFrog-41BF47?style=flat-square&logo=jfrog&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 
 IDEs:
-![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=intellij-idea&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ____
