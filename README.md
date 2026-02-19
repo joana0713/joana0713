@@ -1,6 +1,4 @@
-# 👋 Hey there! My name is Luca<br/>
-![Yodaluca23's github stats](https://github-readme-stats-yodaluca23.vercel.app/api?username=yodaluca23&theme=tokyonight&show_icons=true)<br/>
-Some of the above (Powered by [GitHub-ReadME-Stats](https://github.com/anuraghazra/github-readme-stats)) info may not be correct, as it does not count stars and contributions to organizations.<br/>
+# 💞 Hi, there! My name is Joana Kelly 💞<br/>
 
 ## About Me
 My username on most of the websites I use is [**yodaluca23**](https://github.com/yodaluca23). I am mostly interested in Block-Game modding, Windows Batch files, and iOS App tweaks. I do have a lot of other random interests. I also enjoy reverse engineering things and have several reverse engineered POC APIs on my [gist profile](https://gist.github.com/yodaluca23). I also like making automation using PowerShell and Python. I have several random projects available here on my GitHub profile, and on my [GreasyFork profile](https://greasyfork.org/en/users/1315976).<br/>
