@@ -4,11 +4,9 @@
 
 <h2 align="center">Software Engineer | Full-Stack Developer</h2>
 
-<br/>
-
-<h5>
+<h4>
     Senior Full-Stack Engineer with over five years of experience building production web applications in fintech and public sector environments. I’ve contributed to projects that increased revenue by 40% and improved user enrollment by 33%. I value clean, maintainable code and aim to build systems that are practical, scalable, and useful for real users.
-</h5>
+</h4>
 
 ## About Me
 My username on most of the websites I use is [**yodaluca23**](https://github.com/yodaluca23). I am mostly interested in Block-Game modding, Windows Batch files, and iOS App tweaks. I do have a lot of other random interests. I also enjoy reverse engineering things and have several reverse engineered POC APIs on my [gist profile](https://gist.github.com/yodaluca23). I also like making automation using PowerShell and Python. I have several random projects available here on my GitHub profile, and on my [GreasyFork profile](https://greasyfork.org/en/users/1315976).<br/>
@@ -22,30 +20,6 @@ For my contributions to the developer community, I was honored by being given th
 [![Twitter Follow](https://img.shields.io/twitter/follow/loiane?style=social)](https://twitter.com/loiane)
 [![Linkedin: loiane](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/loiane/)](https://www.linkedin.com/in/loiane/)
 [![Youtube: loianegroner](https://img.shields.io/badge/-Youtube-red?style=flat-square&logo=Youtube&logoColor=white&link=http://youtube.com/loianegroner)](http://youtube.com/loianegroner)
-
-____
-
-### 📝 Recent Articles
-- [Building an AI Chat with Memory (Context) using Spring AI and Angular](https://loiane.com/2025/10/building-ai-chat-with-memory-using-spring-ai-and-angular/)
-- [What’s new in Java 25 (for Developers)](https://loiane.com/2025/09/whats-new-in-java-25-for-developers/)
-- [Spring Boot 4 and Spring Framework 7: Key Features and Changes](https://loiane.com/2025/08/spring-boot-4-spring-framework-7-key-features/)
-- [Using GitHub Copilot to Generate Conventional Commit Messages in VSCode and IntelliJ IDEA](https://loiane.com/2025/08/copilot-conventional-commit-messages/)
-- [Intelligent Java Applications using Spring AI and Gemini](https://loiane.com/2025/01/intelligent-java-applications-using-spring-ai-and-gemini/)
-- [Getting Starting with Intelligent Java Applications using Spring AI](https://loiane.com/2024/12/getting-starting-with-intelligent-java-applications-using-spring-ai/)
-- [Intelligent Java Applications using Spring AI and Gemini](https://loiane.com/2025/01/intelligent-java-applications-using-spring-ai-and-gemini/)
-- [Visual Studio Code for Java: The Complete Guide (Tips, Setup, and Extensions)](https://loiane.com/2024/03/visual-studio-code-for-java-the-complete-guide/)
-- [Github Actions for Angular Projects: CI/CD Pipeline for Testing, Building and ng update](https://loiane.com/2024/03/github-actions-for-angular-projects-cicd-pipeline-for-testing-building-and-ng-update/)
-
-____
-
-### 📹 Recent Videos on YouTube
-- Angular Course 01: [Getting Started](https://youtu.be/cMi3mNWjtyY)
-- Angular Course 02: [Environment Setup](https://youtu.be/GxTBDSiKNeY)
-- Angular Course 03: [Creating the First Component](https://youtu.be/oJJNTyFcsN4)
-- Angular Course 04: [Component Templates and Interactions](https://youtu.be/E9Q1yn3h9d0)
-- Angular Course 05: [Introducing Signals](https://youtu.be/j1diBkWLk1k)
-- Angular Course 06: [Computed Signals](https://youtu.be/KTSkMvRT6zs)
-- Angular Course 07: [Effects](https://youtu.be/jjGT7EwdH9o)
 
 ____
 
@@ -88,6 +62,3 @@ IDEs:
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ____
-
-## 📊 GitHub Stats
-![Loiane's GitHub stats](https://github-readme-stats.vercel.app/api?username=loiane&show_icons=true&theme=tokyonight)
