@@ -1,4 +1,13 @@
 # 💞 Hi, there! My name is Joana Kelly 💞<br/>
+
+<h2 align="center">
+    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="25px" width="25px"> I'm Shivangee Nagar!
+</h2>
+
+<h3 align="center">Software Engineer | Full-Stack Developer</h3>
+
+<br/>
+
 Senior Full-Stack Engineer with over five years of experience building production web applications in fintech and public sector environments. I’ve contributed to projects that increased revenue by 40% and improved user enrollment by 33%. I value clean, maintainable code and aim to build systems that are practical, scalable, and useful for real users.
 
 ## About Me
